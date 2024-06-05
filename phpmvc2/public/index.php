@@ -11,7 +11,7 @@ $app = new App;
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>APLIKASI PENGOLAHAN DATA SISWA</title>
+    <title>WEBSITE PENGOLAHAN DATA SISWA</title>
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
     <style>
         
@@ -53,7 +53,7 @@ $app = new App;
     <!-- Navbar -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
         <div class="container">
-            <a class="navbar-brand" href="#">APLIKASI PENGOLAHAN DATA SISWA</a>
+            <a class="navbar-brand" href="#">WEBSITE PENGOLAHAN DATA SISWA</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -68,7 +68,7 @@ $app = new App;
     <!-- Footer -->
     <footer class="footer">
         <div class="container">
-            <p class="m-0">© 2024 APLIKASI PENGOLAHAN DATA SISWA. All rights reserved.</p>
+            <p class="m-0">© 2024 WEBSITE PENGOLAHAN DATA SISWA. All rights reserved.</p>
         </div>
     </footer>
 
